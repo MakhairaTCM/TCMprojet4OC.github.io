@@ -1085,3 +1085,14 @@ p {
 
     }
 }
+.h2Portfolio{
+    color: black;
+    margin-bottom: 30px;
+
+}
+.h3Portfolio{
+    color: black !important; 
+}
+.h1Noir{
+    color: black!important;
+}
